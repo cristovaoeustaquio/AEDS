@@ -1,0 +1,16 @@
+void exibeCard();
+void cliente();
+void pedidos();
+void gerente();
+void createUsr();
+void funcionario();
+void registraPedido();
+void exibePedidos();
+void exibeUsr();
+void altSGer();
+void altUsr();
+void delUsr();
+void creatIng();
+void altQtdIng();
+void exibeEst();
+void createCard();
